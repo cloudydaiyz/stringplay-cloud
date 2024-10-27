@@ -3,16 +3,17 @@
 </p>
 
 <h1 align="center">
-<sup>emaestro-cloud</sup>
+<sup>stringplay-cloud</sup>
 </h1>
 
 <p align="center">
-<strong>emaestro</strong> is an event analytics service that collects aggregate membership data from your events, allowing you to effectively track event and membership data. Based on <a href="https://github.com/cloudydaiyz/membership-logger">membership-logger</a>.
+<strong>stringplay</strong> is an event analytics service that collects aggregate membership data from your events, allowing you to effectively track event and membership data. Based on <a href="https://github.com/cloudydaiyz/membership-logger">membership-logger</a>.
 </p>
 
 ## Overview
 
-This repository provides the cloud configuration for the emaestro project. For other relevant repositories, check out the following links:
+This repository provides the cloud configuration for the stringplay project. For other relevant repositories, check out the following links:
 
-- [`emaestro-core`](https://github.com/cloudydaiyz/emaestro-core) (Backend)
-- [`emaestro-ui`](https://github.com/cloudydaiyz/emaestro-ui) (Frontend)
+- [`stringplay`](https://github.com/cloudydaiyz/stringplay) (Main)
+- [`stringplay-core`](https://github.com/cloudydaiyz/stringplay-core) (Backend)
+- [`stringplay-ui`](https://github.com/cloudydaiyz/stringplay-ui) (Frontend)
